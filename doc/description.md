@@ -7,7 +7,7 @@ Compile the project and program your controller.
 
 The display should look like this. 
 
-![Start](doc\curve.JPG)
+![Start](IMG_1283.JPG)
 
 
 harebit
