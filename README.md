@@ -10,6 +10,6 @@ In this repository I used the graphic library without a touch screen
 
 The screen looks like this picture
 
-![Start](doc\curve.JPG)
+![Start](doc/IMG_1283.JPG)
 
 harebit
